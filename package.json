@@ -1,0 +1,19 @@
+{
+  "author": "Matthew Sadler <mat@sourcetagsandcodes.com>",
+  "name": "clacks",
+  "description": "http/url path router",
+  "version": "0.0.0",
+  "homepage": "https://github.com/matsadler/clacks",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/matsadler/clacks.git"
+  },
+  "main": "index",
+  "engines": {
+    "node": "~0.6.6"
+  },
+  "dependencies": {
+    "path-template": "*"
+  },
+  "devDependencies": {}
+}
