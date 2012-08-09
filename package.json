@@ -15,5 +15,7 @@
   "dependencies": {
     "path-template": "*"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "mini-unit": "*"
+  }
 }
