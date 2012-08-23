@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/matsadler/clacks.png)](http://travis-ci.org/matsadler/clacks)
 # Clacks
 
 Clacks is a simple HTTP/URL path router for the Node.js HTTP Server.
